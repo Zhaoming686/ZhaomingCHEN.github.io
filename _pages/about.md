@@ -13,9 +13,7 @@ I am currently a master student in the Mathematics and Computer science at Harbi
 
 I am now seeking a PhD position. 
 
-My strengths now lie mainly in graph and mathematics. However, after writing four research papers, I believe I have a high level of coding proficiency. 
-
-Therefore, I hope to find new research directions, ideally related to the fields I have previously worked on. 
+My strengths now lie mainly in graph and mathematics. However, after writing four research papers, I believe I have a high level of coding proficiency. Therefore, I believe I have the capability and enthusiasm to explore new research directions.
 
 In the six months before I begin my PhD, I am willing to learn any necessary knowledge.
 
