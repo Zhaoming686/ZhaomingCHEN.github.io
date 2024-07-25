@@ -12,9 +12,9 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zhaoming Chen"
 description              : &description "personal description"
-url                      : https://ZhaomingCHEN.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://Zhaoming686.github.io/" # the subpath of your site, e.g. "/blog"
-repository               : "ZhaomingCHEN.github.io"
+url                      : https://Zhaoming686.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "Zhaoming686/ZhaomingCHEN.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
