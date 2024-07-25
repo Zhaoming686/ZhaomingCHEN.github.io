@@ -15,7 +15,7 @@ I am now seeking a PhD position.
 
 My strengths now lie mainly in graph and mathematics. However, after writing four research papers, I believe I have a high level of coding proficiency. 
 
-Therefore, I hope to find new research directions, such as artificial intelligence or machine learning, ideally related to the fields I have previously worked on. 
+Therefore, I hope to find new research directions, ideally related to the fields I have previously worked on. 
 
 In the six months before I begin my PhD, I am willing to learn any necessary knowledge.
 
